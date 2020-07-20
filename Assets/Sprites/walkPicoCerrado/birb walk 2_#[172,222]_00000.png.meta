@@ -1,0 +1,687 @@
+fileFormatVersion: 2
+guid: 3cb05ad951e2b904e9ff2a2614a4bc44
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: birb walk 2_#[172,222]_00000_0
+    21300002: birb walk 2_#[172,222]_00000_1
+    21300004: birb walk 2_#[172,222]_00000_2
+    21300006: birb walk 2_#[172,222]_00000_3
+    21300008: birb walk 2_#[172,222]_00000_4
+    21300010: birb walk 2_#[172,222]_00000_5
+    21300012: birb walk 2_#[172,222]_00000_6
+    21300014: birb walk 2_#[172,222]_00000_7
+    21300016: birb walk 2_#[172,222]_00000_8
+    21300018: birb walk 2_#[172,222]_00000_9
+    21300020: birb walk 2_#[172,222]_00000_10
+    21300022: birb walk 2_#[172,222]_00000_11
+    21300024: birb walk 2_#[172,222]_00000_12
+    21300026: birb walk 2_#[172,222]_00000_13
+    21300028: birb walk 2_#[172,222]_00000_14
+    21300030: birb walk 2_#[172,222]_00000_15
+    21300032: birb walk 2_#[172,222]_00000_16
+    21300034: birb walk 2_#[172,222]_00000_17
+    21300036: birb walk 2_#[172,222]_00000_18
+    21300038: birb walk 2_#[172,222]_00000_19
+    21300040: birb walk 2_#[172,222]_00000_20
+    21300042: birb walk 2_#[172,222]_00000_21
+    21300044: birb walk 2_#[172,222]_00000_22
+    21300046: birb walk 2_#[172,222]_00000_23
+    21300048: birb walk 2_#[172,222]_00000_24
+    21300050: birb walk 2_#[172,222]_00000_25
+    21300052: birb walk 2_#[172,222]_00000_26
+    21300054: birb walk 2_#[172,222]_00000_27
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: birb walk 2_#[172,222]_00000_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1110
+        width: 172
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5060d203a75f841a5279daa41fc3a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb walk 2_#[172,222]_00000_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1110
+        width: 172
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa10ac424e1e8de4a9f49232ce58d1af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb walk 2_#[172,222]_00000_2
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1110
+        width: 172
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d4940b49695fc4cba69b12de860a58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb walk 2_#[172,222]_00000_3
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1110
+        width: 172
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce438b1ae4dd30479c045312512491b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb walk 2_#[172,222]_00000_4
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1110
+        width: 172
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db44534b1a182043b861078c29d3a9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb walk 2_#[172,222]_00000_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 888
+        width: 172
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5540c5181475f2f48ba77a04f40d5a80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb walk 2_#[172,222]_00000_6
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 888
+        width: 172
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d340483c62fcbdf48a8252ec3a74301a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb walk 2_#[172,222]_00000_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 888
+        width: 172
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fd851c96ae3f948a3f59b339d654e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb walk 2_#[172,222]_00000_8
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 888
+        width: 172
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5e630f32e212c4987af63aebd1a07f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb walk 2_#[172,222]_00000_9
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 888
+        width: 172
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b3f8a93f9c17d4f9380be2a8043760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb walk 2_#[172,222]_00000_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 666
+        width: 172
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d1ff9edc59d26488c11dfc9781ed02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb walk 2_#[172,222]_00000_11
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 666
+        width: 172
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2c36019c050d4439675ccb617059c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb walk 2_#[172,222]_00000_12
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 666
+        width: 172
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765689442fa2a184cbbb5a61fa0d9a74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb walk 2_#[172,222]_00000_13
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 666
+        width: 172
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c56fd4a2c950064485a5795b07e0601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb walk 2_#[172,222]_00000_14
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 666
+        width: 172
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2328e00b81e804e459d99ba65691774c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb walk 2_#[172,222]_00000_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 172
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da25543ff66e9443997f16b31fd7920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb walk 2_#[172,222]_00000_16
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 444
+        width: 172
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4e0db691dd788418262af5c6bab592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb walk 2_#[172,222]_00000_17
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 444
+        width: 172
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53cfe67b8a871f43bc3306ace51c69b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb walk 2_#[172,222]_00000_18
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 444
+        width: 172
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ae0248ee387c745961238efc5e8f87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb walk 2_#[172,222]_00000_19
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 444
+        width: 172
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4720dcdce91e4942a2c8b1bdfbb44c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb walk 2_#[172,222]_00000_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 172
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5806ced6e6458aa4c81f15012969189d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb walk 2_#[172,222]_00000_21
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 222
+        width: 172
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495578b42bde98544871a194dacb90ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb walk 2_#[172,222]_00000_22
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 222
+        width: 172
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b622117c4fca742950a4cf3270eb3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb walk 2_#[172,222]_00000_23
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 222
+        width: 172
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d578b7b54d1cb2042b688e31a1853c80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb walk 2_#[172,222]_00000_24
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 222
+        width: 172
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c517fc2cd50f4874d8c6e9708c04b984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb walk 2_#[172,222]_00000_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 172
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69ec971bb3b09f4393a426f13ad364d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb walk 2_#[172,222]_00000_26
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 0
+        width: 172
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530042c823de51a4f82cfd5b5e392ec7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb walk 2_#[172,222]_00000_27
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 172
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d20b65694152e419b1043e09077e65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f8e7ed367b5b8ba4bacf440734b541be
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

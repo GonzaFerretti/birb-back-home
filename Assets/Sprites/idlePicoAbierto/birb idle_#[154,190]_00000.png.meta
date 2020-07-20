@@ -1,0 +1,855 @@
+fileFormatVersion: 2
+guid: 8464e72718ead9849aa8a4cd64174bea
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: birb idle_#[154,190]_00000_0
+    21300002: birb idle_#[154,190]_00000_1
+    21300004: birb idle_#[154,190]_00000_2
+    21300006: birb idle_#[154,190]_00000_3
+    21300008: birb idle_#[154,190]_00000_4
+    21300010: birb idle_#[154,190]_00000_5
+    21300012: birb idle_#[154,190]_00000_6
+    21300014: birb idle_#[154,190]_00000_7
+    21300016: birb idle_#[154,190]_00000_8
+    21300018: birb idle_#[154,190]_00000_9
+    21300020: birb idle_#[154,190]_00000_10
+    21300022: birb idle_#[154,190]_00000_11
+    21300024: birb idle_#[154,190]_00000_12
+    21300026: birb idle_#[154,190]_00000_13
+    21300028: birb idle_#[154,190]_00000_14
+    21300030: birb idle_#[154,190]_00000_15
+    21300032: birb idle_#[154,190]_00000_16
+    21300034: birb idle_#[154,190]_00000_17
+    21300036: birb idle_#[154,190]_00000_18
+    21300038: birb idle_#[154,190]_00000_19
+    21300040: birb idle_#[154,190]_00000_20
+    21300042: birb idle_#[154,190]_00000_21
+    21300044: birb idle_#[154,190]_00000_22
+    21300046: birb idle_#[154,190]_00000_23
+    21300048: birb idle_#[154,190]_00000_24
+    21300050: birb idle_#[154,190]_00000_25
+    21300052: birb idle_#[154,190]_00000_26
+    21300054: birb idle_#[154,190]_00000_27
+    21300056: birb idle_#[154,190]_00000_28
+    21300058: birb idle_#[154,190]_00000_29
+    21300060: birb idle_#[154,190]_00000_30
+    21300062: birb idle_#[154,190]_00000_31
+    21300064: birb idle_#[154,190]_00000_32
+    21300066: birb idle_#[154,190]_00000_33
+    21300068: birb idle_#[154,190]_00000_34
+    21300070: birb idle_#[154,190]_00000_35
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: birb idle_#[154,190]_00000_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 950
+        width: 154
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2175ed2a9f1ffbe41af23f08002e7ea6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb idle_#[154,190]_00000_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 950
+        width: 154
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3754846b3514a0d4eaee9b380ae80008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb idle_#[154,190]_00000_2
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 950
+        width: 154
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0daff1780081dc44a98087411e17e0cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb idle_#[154,190]_00000_3
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 950
+        width: 154
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25279d0c222d6644cb737297ced9a913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb idle_#[154,190]_00000_4
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 950
+        width: 154
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d998413083d06444488a26ef843c07fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb idle_#[154,190]_00000_5
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 950
+        width: 154
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1732cf493ecd4409bf4c7d95ed3c9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb idle_#[154,190]_00000_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 760
+        width: 154
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ec294bd04fd0947856ac6f48058a83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb idle_#[154,190]_00000_7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 760
+        width: 154
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cde9eaada677d45a7a24e485eb0c39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb idle_#[154,190]_00000_8
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 760
+        width: 154
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54ed326a358fce49a3510255d4a052c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb idle_#[154,190]_00000_9
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 760
+        width: 154
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa1ef809fc9ad147a0b14168540a474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb idle_#[154,190]_00000_10
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 760
+        width: 154
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f48693f725fd3344adb752135fc209e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb idle_#[154,190]_00000_11
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 760
+        width: 154
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57edb31537481774ba4b3df69912d237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb idle_#[154,190]_00000_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 154
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6054e4c6241587478e71fb8ecc074da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb idle_#[154,190]_00000_13
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 570
+        width: 154
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318943b43c0b17f4a8c5eb0383a85272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb idle_#[154,190]_00000_14
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 570
+        width: 154
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d588d55161e1f143af578776f8f2a2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb idle_#[154,190]_00000_15
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 570
+        width: 154
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cfd7dafdd7383488cc9ee889975fe5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb idle_#[154,190]_00000_16
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 570
+        width: 154
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571078d762c50214fa4252f44406fbb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb idle_#[154,190]_00000_17
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 570
+        width: 154
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b997afd25834f14da91cbf6d9bf20bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb idle_#[154,190]_00000_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 154
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d382f23937682964a8bcea80c36ae6bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb idle_#[154,190]_00000_19
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 380
+        width: 154
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80bc35a04aea654c99a62c1c9cc16b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb idle_#[154,190]_00000_20
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 380
+        width: 154
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077830119ed83ac4cbf51604dc7fa701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb idle_#[154,190]_00000_21
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 380
+        width: 154
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4939068b809e69340975aceff2c7d897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb idle_#[154,190]_00000_22
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 380
+        width: 154
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708c7d27afd39a841b355097d99192c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb idle_#[154,190]_00000_23
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 380
+        width: 154
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ae0b0200af55546a8b1f4050612feb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb idle_#[154,190]_00000_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 154
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112f7f8152e36684fa63f4bece81d146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb idle_#[154,190]_00000_25
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 190
+        width: 154
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347a31919567f4c41bae298ad19057ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb idle_#[154,190]_00000_26
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 190
+        width: 154
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb5a046ed1f1ef40bdee088fe819be0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb idle_#[154,190]_00000_27
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 190
+        width: 154
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7a3638d543c1c4aa351ad14957fa04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb idle_#[154,190]_00000_28
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 190
+        width: 154
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678e816e04415cd4fa5c3235b970ae48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb idle_#[154,190]_00000_29
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 190
+        width: 154
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc792ecb950f9b4484aa819c7c91483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb idle_#[154,190]_00000_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 154
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7ac79467f468245b3723a34b1c60f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb idle_#[154,190]_00000_31
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 154
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4e53c360d37224895f6ebf9eaffc68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb idle_#[154,190]_00000_32
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 154
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffacebde81a6bd4681ebc5c5032f136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb idle_#[154,190]_00000_33
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 0
+        width: 154
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce10d12c28e91e1409c1d1dfe2ec3f2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb idle_#[154,190]_00000_34
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 154
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d51808451898d649bcd05835e94bec5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birb idle_#[154,190]_00000_35
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 0
+        width: 154
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cfd0fd3c1d18744925e301328514b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f8f3ec9da2f66ae4fb047bba99615ac2
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

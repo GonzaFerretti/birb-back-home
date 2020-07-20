@@ -1,0 +1,888 @@
+fileFormatVersion: 2
+guid: 4888e049b81cdfc4590395a48e49c74b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CuervoParaExportar_#[600,544]_00000_0
+    21300002: CuervoParaExportar_#[600,544]_00000_1
+    21300004: CuervoParaExportar_#[600,544]_00000_2
+    21300006: CuervoParaExportar_#[600,544]_00000_3
+    21300008: CuervoParaExportar_#[600,544]_00000_4
+    21300010: CuervoParaExportar_#[600,544]_00000_5
+    21300012: CuervoParaExportar_#[600,544]_00000_6
+    21300014: CuervoParaExportar_#[600,544]_00000_7
+    21300016: CuervoParaExportar_#[600,544]_00000_8
+    21300018: CuervoParaExportar_#[600,544]_00000_9
+    21300020: CuervoParaExportar_#[600,544]_00000_10
+    21300022: CuervoParaExportar_#[600,544]_00000_11
+    21300024: CuervoParaExportar_#[600,544]_00000_12
+    21300026: CuervoParaExportar_#[600,544]_00000_13
+    21300028: CuervoParaExportar_#[600,544]_00000_14
+    21300030: CuervoParaExportar_#[600,544]_00000_15
+    21300032: CuervoParaExportar_#[600,544]_00000_16
+    21300034: CuervoParaExportar_#[600,544]_00000_17
+    21300036: CuervoParaExportar_#[600,544]_00000_18
+    21300038: CuervoParaExportar_#[600,544]_00000_19
+    21300040: CuervoParaExportar_#[600,544]_00000_20
+    21300042: CuervoParaExportar_#[600,544]_00000_21
+    21300044: CuervoParaExportar_#[600,544]_00000_22
+    21300046: CuervoParaExportar_#[600,544]_00000_23
+    21300048: CuervoParaExportar_#[600,544]_00000_24
+    21300050: CuervoParaExportar_#[600,544]_00000_25
+    21300052: CuervoParaExportar_#[600,544]_00000_26
+    21300054: CuervoParaExportar_#[600,544]_00000_27
+    21300056: CuervoParaExportar_#[600,544]_00000_28
+    21300058: CuervoParaExportar_#[600,544]_00000_29
+    21300060: CuervoParaExportar_#[600,544]_00000_30
+    21300062: CuervoParaExportar_#[600,544]_00000_31
+    21300064: CuervoParaExportar_#[600,544]_00000_32
+    21300066: CuervoParaExportar_#[600,544]_00000_33
+    21300068: CuervoParaExportar_#[600,544]_00000_34
+    21300070: CuervoParaExportar_#[600,544]_00000_35
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CuervoParaExportar_#[600,544]_00000_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2720
+        width: 600
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193aacd00fcf09245818202378be0179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuervoParaExportar_#[600,544]_00000_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2720
+        width: 600
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c74d76c58a95714ab33017e6e8b01c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuervoParaExportar_#[600,544]_00000_2
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2720
+        width: 600
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8bd173b4281dd488bb568265020e70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuervoParaExportar_#[600,544]_00000_3
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2720
+        width: 600
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a069e9e1e42425d4fb9dc77c05bc3c40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuervoParaExportar_#[600,544]_00000_4
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2720
+        width: 600
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f62484f7973f3649a4d98c15c794abf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuervoParaExportar_#[600,544]_00000_5
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2720
+        width: 600
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2733a1ee6ee8d7e4eb700520ebda66aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuervoParaExportar_#[600,544]_00000_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2176
+        width: 600
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26df0979929092641940c1eae6461f2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuervoParaExportar_#[600,544]_00000_7
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2176
+        width: 600
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22c202e9b52a5b469742213d0da1504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuervoParaExportar_#[600,544]_00000_8
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2176
+        width: 600
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cea953b4d708b4b825d05b4a8d8206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuervoParaExportar_#[600,544]_00000_9
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2176
+        width: 600
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420cbd2fecedfef49a4a7f0de82d2236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuervoParaExportar_#[600,544]_00000_10
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2176
+        width: 600
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4180bdbe4dc7d6439adf7ec198e8f5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuervoParaExportar_#[600,544]_00000_11
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2176
+        width: 600
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fb6e123985a1348b2b2545bb132441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuervoParaExportar_#[600,544]_00000_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1632
+        width: 600
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4268f7e154ce6b742a55588ef0cdd094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuervoParaExportar_#[600,544]_00000_13
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1632
+        width: 600
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c471c7f3b3a370e45a37c4143dbbc009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuervoParaExportar_#[600,544]_00000_14
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1632
+        width: 600
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ba368983818be4bab55260c020faf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuervoParaExportar_#[600,544]_00000_15
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1632
+        width: 600
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c9dabc03046bd49aac929f085a2e34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuervoParaExportar_#[600,544]_00000_16
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1632
+        width: 600
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e5dd55b47cdd243a8cfcae5871c55a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuervoParaExportar_#[600,544]_00000_17
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1632
+        width: 600
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f01ef9e023b3d4fb690c747f348b65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuervoParaExportar_#[600,544]_00000_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 600
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116c51ff4342d514882e8686782c4297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuervoParaExportar_#[600,544]_00000_19
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1088
+        width: 600
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9154200328191489a3f42c84e784bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuervoParaExportar_#[600,544]_00000_20
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1088
+        width: 600
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d87ab60743b2942a71d9976f51efb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuervoParaExportar_#[600,544]_00000_21
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1088
+        width: 600
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6509ada5303c80249b3b7282c0e2478b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuervoParaExportar_#[600,544]_00000_22
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1088
+        width: 600
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51e6b9fb69085f4e9488839b09bce5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuervoParaExportar_#[600,544]_00000_23
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1088
+        width: 600
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a83424bbe9c5548b0238d81cd21baf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuervoParaExportar_#[600,544]_00000_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 600
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e23dedc0d623047a74b144586a66cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuervoParaExportar_#[600,544]_00000_25
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 544
+        width: 600
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2071a5cd15dd7ca439130153180ee454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuervoParaExportar_#[600,544]_00000_26
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 544
+        width: 600
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0754ed1f2cc394885488f5cefb8a2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuervoParaExportar_#[600,544]_00000_27
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 544
+        width: 600
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2472df39bbc46264a800519e2d6de829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuervoParaExportar_#[600,544]_00000_28
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 544
+        width: 600
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c77766356b0b247b600962b7a4de91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuervoParaExportar_#[600,544]_00000_29
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 544
+        width: 600
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9893d058614da4a9da16b185d29218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuervoParaExportar_#[600,544]_00000_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 600
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ff7cdeb25fc9d4186e9b2634846950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuervoParaExportar_#[600,544]_00000_31
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 600
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a5ac0f43f9c294b83681f261f0c5f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuervoParaExportar_#[600,544]_00000_32
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 600
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617ef0b91545041498a8af8ec2a1411d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuervoParaExportar_#[600,544]_00000_33
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 600
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddc49c8512744146b12c61a3099102f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuervoParaExportar_#[600,544]_00000_34
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 600
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1bfdd8e40c5c44bafc6352f8b43baf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuervoParaExportar_#[600,544]_00000_35
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 600
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cff7c852ab3f847a7b47afa9b4a5a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 207b54143912565458eae90ac57a6161
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
