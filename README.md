@@ -1,5 +1,6 @@
 # Birb Back Home
 (Development period: July 2019 - December 2019)
+
 Cute platformer about a baby bird trying to get back to its family. Semester-long project for the Videogame Programming, and Graphic Design classes, in Escuela Da Vinci, Argentina.
 
 Art, UI/UX design and Game Design by Sofia Escrofani (https://www.linkedin.com/in/sofia-escrofani-a331781a3/)
